@@ -31,3 +31,15 @@ Neste módulo de análise exploratória de dados com pandas, vamos aprender a ex
     ```bash
     git clone https://github.com/pcaldi/devIa_eda.git
     ```
+3. Acesse o diretório:
+
+    ```bash
+    cd devIa_eda
+    ```
+
+4. Instale as dependências e ative o ambiente virtual
+
+    ```bash
+    pipenv install
+    pipenv shell
+    ```
