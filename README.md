@@ -24,7 +24,7 @@ Neste módulo de análise exploratória de dados com pandas, vamos aprender a ex
 
 ## Como clonar o projeto?
 
-1. Certifique-se de que está usando o `pyenv` e o `pipenv` para gerenciar as dependências do projeto. Veja como instalar e configurar clicando nos respectivos links do tópico [Gerenciadores de Ambiente Virtual](#gerenciadores-de-ambiente-virtual).
+1. Certifique-se de que está usando o `pyenv` e o `pipenv` para gerenciar as dependências do projeto.
 
 2. Faça o clone pelo Github:
 
