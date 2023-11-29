@@ -29,5 +29,5 @@ Neste módulo de análise exploratória de dados com pandas, vamos aprender a ex
 2. Faça o clone pelo Github:
 
     ```bash
-    git clone https://github.com/mgckaled/ignite-devia-introduction.git
+    git clone https://github.com/pcaldi/devIa_eda.git
     ```
